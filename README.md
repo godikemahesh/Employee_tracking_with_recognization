@@ -239,11 +239,11 @@ Shows:
 * Break time
 * Break count
 
-🔄 Auto-refresh for live updates
+ Auto-refresh for live updates
 
 ---
 
-## 🧪 8. How to Use the System
+##  8. How to Use the System
 
 ### Step 1 — Create Desk Zones
 
