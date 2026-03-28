@@ -1,0 +1,1028 @@
+{
+    "02-03-2026": {
+        "bhavani": {
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "tejasri": {
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 0,
+            "current_state": "PRESENT"
+        },
+        "mahesh": {
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 0,
+            "current_state": "PRESENT"
+        },
+        "vineetha": {
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 0,
+            "current_state": "PRESENT"
+        },
+        "yamini": {
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    },
+    "03-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 5402.426855564117,
+            "out_seat_seconds": 4233.303231954575,
+            "in_seat_time": "1h 30m",
+            "out_seat_time": "1h 10m",
+            "total_breaks": 8,
+            "current_state": "ABSENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 70.37313532829285,
+            "out_seat_seconds": 9565.3569521904,
+            "in_seat_time": "0h 1m",
+            "out_seat_time": "2h 39m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 9082.369475126266,
+            "out_seat_seconds": 553.3606123924255,
+            "in_seat_time": "2h 31m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 10,
+            "current_state": "PRESENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 70.37000346183777,
+            "out_seat_seconds": 9565.360084056854,
+            "in_seat_time": "0h 1m",
+            "out_seat_time": "2h 39m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 70.3677248954773,
+            "out_seat_seconds": 9565.362362623215,
+            "in_seat_time": "0h 1m",
+            "out_seat_time": "2h 39m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 9635.730087518692,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 40m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 9635.730087518692,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 40m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 19.59566879272461,
+            "out_seat_seconds": 9616.134418725967,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 40m",
+            "total_breaks": 1,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 9635.730087518692,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 40m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 9635.730087518692,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 40m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    },
+    "04-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 15307.260912656784,
+            "out_seat_seconds": 10687.52545285225,
+            "in_seat_time": "4h 15m",
+            "out_seat_time": "2h 58m",
+            "total_breaks": 33,
+            "current_state": "ABSENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 2083.59747672081,
+            "out_seat_seconds": 15964.368121623993,
+            "in_seat_time": "0h 34m",
+            "out_seat_time": "4h 26m",
+            "total_breaks": 18,
+            "current_state": "PRESENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 18047.965598344803,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "5h 0m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    },
+    "05-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 8689.35300207138,
+            "out_seat_seconds": 2120.590896129608,
+            "in_seat_time": "2h 24m",
+            "out_seat_time": "0h 35m",
+            "total_breaks": 10,
+            "current_state": "PRESENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 2051.372594833374,
+            "out_seat_seconds": 8869.234616279602,
+            "in_seat_time": "0h 34m",
+            "out_seat_time": "2h 27m",
+            "total_breaks": 4,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 10324.459579467773,
+            "out_seat_seconds": 684.7401659488678,
+            "in_seat_time": "2h 52m",
+            "out_seat_time": "0h 11m",
+            "total_breaks": 9,
+            "current_state": "PRESENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 2441.5950560569763,
+            "out_seat_seconds": 8884.141919612885,
+            "in_seat_time": "0h 40m",
+            "out_seat_time": "2h 28m",
+            "total_breaks": 32,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 9320.33947968483,
+            "out_seat_seconds": 1489.6054546833038,
+            "in_seat_time": "2h 35m",
+            "out_seat_time": "0h 24m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 10725.305477619171,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 58m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 10725.305477619171,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 58m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 5895.280619621277,
+            "out_seat_seconds": 4830.024857997894,
+            "in_seat_time": "1h 38m",
+            "out_seat_time": "1h 20m",
+            "total_breaks": 7,
+            "current_state": "PRESENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 10725.305477619171,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 58m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 10725.305477619171,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 58m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    },
+    "06-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 18858.176934480667,
+            "out_seat_seconds": 3835.637371301651,
+            "in_seat_time": "5h 14m",
+            "out_seat_time": "1h 3m",
+            "total_breaks": 29,
+            "current_state": "PRESENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 18804.593997478485,
+            "out_seat_seconds": 3889.220308303833,
+            "in_seat_time": "5h 13m",
+            "out_seat_time": "1h 4m",
+            "total_breaks": 24,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 22406.094581604004,
+            "out_seat_seconds": 287.7197241783142,
+            "in_seat_time": "6h 13m",
+            "out_seat_time": "0h 4m",
+            "total_breaks": 6,
+            "current_state": "PRESENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 12940.501008033752,
+            "out_seat_seconds": 9753.313297748566,
+            "in_seat_time": "3h 35m",
+            "out_seat_time": "2h 42m",
+            "total_breaks": 67,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 22341.243596553802,
+            "out_seat_seconds": 352.5707092285156,
+            "in_seat_time": "6h 12m",
+            "out_seat_time": "0h 5m",
+            "total_breaks": 4,
+            "current_state": "PRESENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 6450.175984859467,
+            "out_seat_seconds": 16423.22301387787,
+            "in_seat_time": "1h 47m",
+            "out_seat_time": "4h 33m",
+            "total_breaks": 78,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 22693.814305782318,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "6h 18m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 12344.891160964966,
+            "out_seat_seconds": 10368.722067594528,
+            "in_seat_time": "3h 25m",
+            "out_seat_time": "2h 52m",
+            "total_breaks": 61,
+            "current_state": "PRESENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 22693.814305782318,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "6h 18m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 22693.814305782318,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "6h 18m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    },
+    "07-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 531.2691693305969,
+            "out_seat_seconds": 2174.773259162903,
+            "in_seat_time": "0h 8m",
+            "out_seat_time": "0h 36m",
+            "total_breaks": 5,
+            "current_state": "ABSENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 30.635945081710815,
+            "out_seat_seconds": 2675.406483411789,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 44m",
+            "total_breaks": 1,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 1729.7761375904083,
+            "out_seat_seconds": 976.2662909030914,
+            "in_seat_time": "0h 28m",
+            "out_seat_time": "0h 16m",
+            "total_breaks": 3,
+            "current_state": "PRESENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 3.169039487838745,
+            "out_seat_seconds": 2702.873389005661,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 45m",
+            "total_breaks": 1,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 1585.9128720760345,
+            "out_seat_seconds": 1120.1295564174652,
+            "in_seat_time": "0h 26m",
+            "out_seat_time": "0h 18m",
+            "total_breaks": 3,
+            "current_state": "PRESENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 2706.0424284934998,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 45m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 2706.0424284934998,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 45m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 347.069433927536,
+            "out_seat_seconds": 2358.9729945659637,
+            "in_seat_time": "0h 5m",
+            "out_seat_time": "0h 39m",
+            "total_breaks": 2,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 49.51512169837952,
+            "out_seat_seconds": 2656.5273067951202,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 44m",
+            "total_breaks": 1,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 102.44489645957947,
+            "out_seat_seconds": 2603.5975320339203,
+            "in_seat_time": "0h 1m",
+            "out_seat_time": "0h 43m",
+            "total_breaks": 2,
+            "current_state": "ABSENT"
+        }
+    },
+    "09-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 432.16990995407104,
+            "out_seat_seconds": 853.7872002124786,
+            "in_seat_time": "0h 7m",
+            "out_seat_time": "0h 14m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 344.72932505607605,
+            "out_seat_seconds": 941.2277851104736,
+            "in_seat_time": "0h 5m",
+            "out_seat_time": "0h 15m",
+            "total_breaks": 4,
+            "current_state": "ABSENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 1285.9571101665497,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 21m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    },
+    "10-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 7170.109125137329,
+            "out_seat_seconds": 1029.9306359291077,
+            "in_seat_time": "1h 59m",
+            "out_seat_time": "0h 17m",
+            "total_breaks": 5,
+            "current_state": "ABSENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 6106.412480592728,
+            "out_seat_seconds": 2093.627280473709,
+            "in_seat_time": "1h 41m",
+            "out_seat_time": "0h 34m",
+            "total_breaks": 10,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 5961.64737868309,
+            "out_seat_seconds": 2238.3923823833466,
+            "in_seat_time": "1h 39m",
+            "out_seat_time": "0h 37m",
+            "total_breaks": 19,
+            "current_state": "ABSENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 4850.040110826492,
+            "out_seat_seconds": 3349.9996502399445,
+            "in_seat_time": "1h 20m",
+            "out_seat_time": "0h 55m",
+            "total_breaks": 20,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 7408.66331744194,
+            "out_seat_seconds": 791.3764436244965,
+            "in_seat_time": "2h 3m",
+            "out_seat_time": "0h 13m",
+            "total_breaks": 3,
+            "current_state": "ABSENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 1276.984718799591,
+            "out_seat_seconds": 6923.055042266846,
+            "in_seat_time": "0h 21m",
+            "out_seat_time": "1h 55m",
+            "total_breaks": 21,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 5162.865379333496,
+            "out_seat_seconds": 3037.1743817329407,
+            "in_seat_time": "1h 26m",
+            "out_seat_time": "0h 50m",
+            "total_breaks": 19,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 8200.039761066437,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 16m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 8200.039761066437,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 16m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 8200.039761066437,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "2h 16m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "charan": {
+            "in_seat_seconds": 2278.027088880539,
+            "out_seat_seconds": 5922.012672185898,
+            "in_seat_time": "0h 37m",
+            "out_seat_time": "1h 38m",
+            "total_breaks": 10,
+            "current_state": "ABSENT"
+        },
+        "manasa": {
+            "in_seat_seconds": 3530.782331943512,
+            "out_seat_seconds": 4669.257429122925,
+            "in_seat_time": "0h 58m",
+            "out_seat_time": "1h 17m",
+            "total_breaks": 30,
+            "current_state": "ABSENT"
+        },
+        "navadeep": {
+            "in_seat_seconds": 1295.464617729187,
+            "out_seat_seconds": 6904.57514333725,
+            "in_seat_time": "0h 21m",
+            "out_seat_time": "1h 55m",
+            "total_breaks": 16,
+            "current_state": "ABSENT"
+        },
+        "intern": {
+            "in_seat_seconds": 4755.553886413574,
+            "out_seat_seconds": 3444.4858746528625,
+            "in_seat_time": "1h 19m",
+            "out_seat_time": "0h 57m",
+            "total_breaks": 17,
+            "current_state": "ABSENT"
+        },
+        "renuka": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 886.6403861045837,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 14m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    },
+    "11-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 125.41945672035217,
+            "out_seat_seconds": 37.05630016326904,
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 125.39112424850464,
+            "out_seat_seconds": 37.08463263511658,
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 125.36647701263428,
+            "out_seat_seconds": 37.10927987098694,
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 46.30558919906616,
+            "out_seat_seconds": 116.17016768455505,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 1m",
+            "total_breaks": 2,
+            "current_state": "PRESENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 125.34109663963318,
+            "out_seat_seconds": 37.13466024398804,
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 125.32597613334656,
+            "out_seat_seconds": 37.14978075027466,
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 125.30658841133118,
+            "out_seat_seconds": 37.16916847229004,
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 162.47575688362122,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 162.47575688362122,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 162.47575688362122,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "charan": {
+            "in_seat_seconds": 125.30537343025208,
+            "out_seat_seconds": 37.17038345336914,
+            "in_seat_time": "0h 2m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "manasa": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 162.47575688362122,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "navadeep": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 162.47575688362122,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "intern": {
+            "in_seat_seconds": 88.6005311012268,
+            "out_seat_seconds": 73.87522578239441,
+            "in_seat_time": "0h 1m",
+            "out_seat_time": "0h 1m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        }
+    },
+    "13-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 717.9308233261108,
+            "out_seat_seconds": 66.48932838439941,
+            "in_seat_time": "0h 11m",
+            "out_seat_time": "0h 1m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 657.033075094223,
+            "out_seat_seconds": 127.38707661628723,
+            "in_seat_time": "0h 10m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 3,
+            "current_state": "PRESENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 663.9189240932465,
+            "out_seat_seconds": 120.5012276172638,
+            "in_seat_time": "0h 11m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 1,
+            "current_state": "ABSENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 616.0065271854401,
+            "out_seat_seconds": 168.4136245250702,
+            "in_seat_time": "0h 10m",
+            "out_seat_time": "0h 2m",
+            "total_breaks": 1,
+            "current_state": "PRESENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 736.4333212375641,
+            "out_seat_seconds": 47.98683047294617,
+            "in_seat_time": "0h 12m",
+            "out_seat_time": "0h 0m",
+            "total_breaks": 0,
+            "current_state": "PRESENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 59.39005446434021,
+            "out_seat_seconds": 725.03009724617,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 12m",
+            "total_breaks": 3,
+            "current_state": "PRESENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 784.4201517105103,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 13m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 784.4201517105103,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 13m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 784.4201517105103,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 13m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 784.4201517105103,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 13m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "charan": {
+            "in_seat_seconds": 101.9478223323822,
+            "out_seat_seconds": 682.472329378128,
+            "in_seat_time": "0h 1m",
+            "out_seat_time": "0h 11m",
+            "total_breaks": 3,
+            "current_state": "PRESENT"
+        },
+        "manasa": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 784.4201517105103,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 13m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "navadeep": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 784.4201517105103,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 13m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "intern": {
+            "in_seat_seconds": 20.003654718399048,
+            "out_seat_seconds": 764.4164969921112,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 12m",
+            "total_breaks": 1,
+            "current_state": "ABSENT"
+        }
+    },
+    "14-03-2026": {
+        "bhavani": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "tejasri": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "mahesh": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "vineetha": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "saireddy": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "yamini": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "hemanth": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "govardhan": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "balaji": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "rahul": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "charan": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "manasa": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "navadeep": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "intern": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        },
+        "renuka": {
+            "in_seat_seconds": 0,
+            "out_seat_seconds": 562.4103009700775,
+            "in_seat_time": "0h 0m",
+            "out_seat_time": "0h 9m",
+            "total_breaks": 0,
+            "current_state": "ABSENT"
+        }
+    }
+}
