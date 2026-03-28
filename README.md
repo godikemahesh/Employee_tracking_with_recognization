@@ -15,12 +15,12 @@ It detects and recognizes employees sitting at their designated desks and contin
 
 ###  Key Capabilities
 
-* 👤 Employee identification using AI
-* 🪑 Seat occupancy tracking
-* ⏱️ Working time & break duration tracking
-* 📊 Real-time monitoring with dashboard
+*  Employee identification using AI
+*  Seat occupancy tracking
+*  Working time & break duration tracking
+*  Real-time monitoring with dashboard
 
-### 🤖 Core Intelligence
+###  Core Intelligence
 
 The system combines:
 
